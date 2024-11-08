@@ -6,6 +6,8 @@ Part de DAM
 He fet el prototip de baixa fidelitat del wireframe de l'aplicació mòbil, on el resultat és el següent:
 ![alt text](image.png)
 
+Link al FIGMA on hi és el wireframe: https://www.figma.com/design/titMMVK4P7uRwgsF8lLiD1/Projecte-Wireframe-m%C3%B2bil?node-id=0-1&t=XUgyCn0NGMQxcwQF-1
+
 Ho he separat en dos parts: pantalles d'alumne i pantalles de professorat (l'administrador pot veure tant les de l'alumne com les de professor)
 Les pantalles són:
 1) Pantalla d'inici de sessió: demana a l'usuari l'ID, el nom i la contrassenya, llavors clica el botó d'iniciar sessió. Si no té compte ha de registrar-se amb el botó de registrar-se.
