@@ -20,3 +20,22 @@ Les pantalles són:
 6) Pantalla de registre de sortides: Mostra el percentatge de sortides fetes a la part superior, i a la part inferior una llista amb el número de sortides que ha fet i la data en quan les ha fet.
 7) Pantalla de perfil: Mostra l'icona amb el nom a la part superior, i a la part inferior dades de l'usuari, en que hi ha l'opció per editar-les.
 8) Pantalla d'ajustos: Mostra certes opcions que té l'usuari, que pot canviar si ho necessita.
+
+Part de DAW
+======================
+8/11/2024
+He fet 3 pàgines diferents per a la pàgina web. Cadascuna es diferent i es una vista per als 3 membres demanats; l'administrador, l'alumne i el professor. Cadascú te les seves funcions úniques i un rol diferent.
+Totes les pàgines segueixen el mateix patró, amb la barra lateral esquerra amb la vista general i els usuaris en línia i també opcions de configuració i sortir. A la dreta està l'apartat de l'usuari amb les seves tasques. Al mitg el contingut de l'usuari en concret.
+
+La primera pàgina es la de l'administrador. Aquest té tot el poder possible i te molte funcions com per exemple accedir a les estadístiques generals, el rendiment dels alumnes, la seva assistència, assignació de grups, canvis d'horari, permisos.
+
+![VistaAdministrador](https://github.com/user-attachments/assets/9e199f44-d399-438e-bfd6-3c592df75b4b)
+
+En quant a la vista alumne surt el calendari del curs i informació de l'alumne com el nom, la matrícula, el curs. A la barra lateral esquerra apareixen els companys en línia. També hi han 3 opcions com la assistència, els horaris i els avisos.
+
+![VistaAlumne](https://github.com/user-attachments/assets/739867e3-349d-409c-b86c-ad2b1287f1ff)
+
+I per últim la vista professor, el qual té les funcions de passar la llista amb la opció de marcar presents, absents o retards, modificar l'assistència. Tot això sent diferent per a cada alumne ja qu el professor pot seleccionar cada alumne amb els paràmetres dessitjats.
+![VistaProfessor](https://github.com/user-attachments/assets/e93dda18-3872-4a77-8bed-374666b3d267)
+
+
