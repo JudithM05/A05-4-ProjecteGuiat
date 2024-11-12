@@ -39,3 +39,14 @@ I per últim la vista professor, el qual té les funcions de passar la llista am
 ![VistaProfessor](https://github.com/user-attachments/assets/e93dda18-3872-4a77-8bed-374666b3d267)
 
 
+Part de ASIX
+======================
+He creat dos fitxers diferents “projecteprincipal.ino” i “leer_tarjeta.ino”. Després he fet codis en els dos fitxers i després executar. Alhora d'executar cal detectar dues diferents targeta i en monitor de sèrie surt “targeta detectada” amb dos diferents números de sèrie. 
+
+Enllaç de document: https://docs.google.com/document/d/1neM1LTBtjF2I26DW6NqIO5L5C9EoeBob4IO9lFlFS0E/edit?usp=sharing
+
+![image](https://github.com/user-attachments/assets/cb10558d-a29b-46c1-bc7a-ed8696830066)
+
+![image](https://github.com/user-attachments/assets/f8b05d17-4bb1-400f-923d-562222f479b7)
+
+![image](https://github.com/user-attachments/assets/ad1e21a1-96d0-4418-aca5-9520791eb17f)
