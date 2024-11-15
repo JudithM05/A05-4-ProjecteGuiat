@@ -56,3 +56,6 @@ Enllaç de document: https://docs.google.com/document/d/1neM1LTBtjF2I26DW6NqIO5L
 ![image](https://github.com/user-attachments/assets/f8b05d17-4bb1-400f-923d-562222f479b7)
 
 ![image](https://github.com/user-attachments/assets/ad1e21a1-96d0-4418-aca5-9520791eb17f)
+
+15/11/2024 He fet el prototip d'alta fidelitat del Wireframe (encara falta la guia d'estils)
+Link: https://www.figma.com/design/uLV90f0g7JA2YJ4b2PCdET/Alta-fidelitat?node-id=2225-6734&t=XsvIBsvHiLm1m1LS-1
