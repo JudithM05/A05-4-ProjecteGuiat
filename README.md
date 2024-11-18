@@ -27,6 +27,18 @@ He fet el prototip d'alta fidelitat del Wireframe (encara falta la guia d'estils
 
 He canviat certes coses, com, per exemple, que en lloc de ser la assistència per assignatura he fet que sigui per aules i que el professor pugui passar llista segons l'aula i canviar l'idioma per a que només estigui en la pantalla d'ajustos (apart de fer les coses de millor qualitat per que és el prototip d'alta fidelitat).
 
+18/11/2024
+He fet la guia d'estils del Wireframe:
+[text](<GUIA D’ESTILS WIREFRAME.pdf>)
+
+On he posat la tipografia, iconografia i colors utilitzats en el Wireframe que he fet.
+
+També hi tinc el disseny de la base de dades (que ho vaig realitzar fa uns dies, però se'm va oblidar documentar-lo):
+model relacional(caixes)
+![alt text](BBDDCaixes.png)
+model relacional(text);
+[text](<Base de dades relacional Sprint 2.pdf>)
+
 Part de DAW
 ======================
 8/11/2024
