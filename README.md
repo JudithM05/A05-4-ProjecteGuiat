@@ -56,6 +56,9 @@ En quant a la vista alumne surt el calendari del curs i informació de l'alumne 
 I per últim la vista professor, el qual té les funcions de passar la llista amb la opció de marcar presents, absents o retards, modificar l'assistència. Tot això sent diferent per a cada alumne ja qu el professor pot seleccionar cada alumne amb els paràmetres dessitjats.
 ![VistaProfessor](https://github.com/user-attachments/assets/e93dda18-3872-4a77-8bed-374666b3d267)
 
+15/11/2024 He fet el prototip d'alta fidelitat del Wireframe de la pàgina web.
+Link: https://www.figma.com/design/uLV90f0g7JA2YJ4b2PCdET/Alta-fidelitat?node-id=2225-6734&t=XsvIBsvHiLm1m1LS-1
+
 
 Part de ASIX
 ======================
@@ -68,3 +71,4 @@ Enllaç de document: https://docs.google.com/document/d/1neM1LTBtjF2I26DW6NqIO5L
 ![image](https://github.com/user-attachments/assets/f8b05d17-4bb1-400f-923d-562222f479b7)
 
 ![image](https://github.com/user-attachments/assets/ad1e21a1-96d0-4418-aca5-9520791eb17f)
+
