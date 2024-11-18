@@ -29,7 +29,7 @@ He canviat certes coses, com, per exemple, que en lloc de ser la assistència pe
 
 18/11/2024
 He fet la guia d'estils del Wireframe:
-[text](<GUIA D’ESTILS WIREFRAME.pdf>)
+[text](<GUIA D’ESTILS WIREFRAME (1).pdf>)
 
 On he posat la tipografia, iconografia i colors utilitzats en el Wireframe que he fet.
 
