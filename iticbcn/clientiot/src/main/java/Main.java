@@ -9,7 +9,7 @@ public class Main {
         String dbPassword = arguments.get("dbPassword", "password");
 
         // Conectar a AWS IoT y enviar mensaje
-        AwsIotClient awsIotClient = new AwsIotClient(topic);
+        AWSIotMqttClient awsIotClient = new AWSIotMqttClient(topic);
         awsIotClient.publishMessage(message);
 
         // Guardar mensaje en la base de datos
