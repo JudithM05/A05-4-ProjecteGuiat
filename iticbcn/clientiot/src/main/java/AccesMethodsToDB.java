@@ -17,7 +17,7 @@ public class AccesMethodsToDB {
         }
         
         } catch (SQLException e) {
-            System.out.println("Error al ejecutar la consulta: " + e.getMessage());
+            System.out.println("Error al executar la consulta: " + e.getMessage());
         }
 
 

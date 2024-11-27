@@ -4,11 +4,7 @@
 
  import java.sql.*;
  
- /**
-  *
-  * @author david
-  */
- public class ClientIoT {
+public class ClientIoT {
  
      static final String url = "jdbc:mysql://10.2.12.239:3306/alumnat"; 
      static final String usuario = "root"; 
