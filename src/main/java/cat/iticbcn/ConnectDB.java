@@ -1,3 +1,5 @@
+package cat.iticbcn;
+
 import java.sql.*;
 
 public class ConnectDB {

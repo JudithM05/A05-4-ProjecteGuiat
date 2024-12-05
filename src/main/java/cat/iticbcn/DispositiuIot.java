@@ -3,10 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author david
- */
+package cat.iticbcn; 
+
 import com.amazonaws.services.iot.client.AWSIotException;
 import com.amazonaws.services.iot.client.AWSIotMqttClient;
 import com.amazonaws.services.iot.client.AWSIotQos;
@@ -16,11 +14,11 @@ import com.amazonaws.services.iot.client.sample.sampleUtil.SampleUtil.KeyStorePa
 public class DispositiuIot{
 
     //private static final String FICH_CLAU_PUBLICA = "./client1certs/";
-    private static final String FICH_CLAU_PRIVADA = "iticbcn\\clientiot\\src\\main\\resources\\606c12ed5309aa1b109e8f44605b275da6f6d5cc8f87a80d242605761630d3b0-private.pem.key";
-    private static final String FICH_CERT_DISP_IOT = "iticbcn\\clientiot\\src\\main\\resources\\606c12ed5309aa1b109e8f44605b275da6f6d5cc8f87a80d242605761630d3b0-certificate.pem.crt";
-    private static final String ENDPOINT = "http://au609fvdk4tdm-ats.iot.us-east-1.amazonaws.com/";
+    private static final String FICH_CLAU_PRIVADA = "src/main/resources/private_key.key";
+    private static final String FICH_CERT_DISP_IOT = "src/main/resources/certificat.crt";
+    private static final String ENDPOINT = "au609fvdk4tdm-ats.iot.us-east-1.amazonaws.com";
     //public static final String TOPIC = "iticbcn/espnode01/pub";
-    public static final String TOPIC = "iticbcn/#";
+    public static final String TOPIC = "cat.iticbcn/#";
     public static final String CLIENT_ID = "client1";
     public static final AWSIotQos TOPIC_QOS = AWSIotQos.QOS0;
 
