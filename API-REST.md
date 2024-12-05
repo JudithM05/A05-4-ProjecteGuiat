@@ -16,6 +16,7 @@ Faig un CURL pero aquest cop utilitzant localhost:8080 en cops de la IP de la m√
 ![image](https://github.com/user-attachments/assets/621d824a-0e00-4c6e-8bf5-c17c60719fbd)
 
 Al navegador tamb√© es mostra.
+
 ![image](https://github.com/user-attachments/assets/e23c5df3-6507-4124-98e4-83654b1a9b2d)
 
 
